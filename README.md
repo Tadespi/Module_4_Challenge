@@ -1,1 +1,3 @@
 # Module_4_Challenge
+
+In this module, we're stepping into the role of the new Chief Data Scientist for our city's school district. Our main objective is to support the school board and mayor in making informed decisions about school budgets and goals. Specifically, we're tasked with analyzing standardized test results across the district. By leveraging our expertise and utilizing data on test scores and school details, our goal is to compile and analyze this information to identify trends in school performance.
